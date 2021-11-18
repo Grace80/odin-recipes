@@ -12,5 +12,30 @@ font-weight: bold;
 color:sienna;
 }
 body{
-    background-color: blanchedalmond;    
+    background-color: blanchedalmond;
+    background-image: -moz-element();    
+}
+.ref{
+    color: brown;
+    font-variant: small-caps;
+    
+}
+.imagen{
+        display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+}
+.titulo2, .titulo3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:chocolate;
+}
+.parrafo{
+    font-family: cursive;
+    color: olive;
+    font-size: xx-large;
+}
+
+h4{
+    color: #64310c;
 }
